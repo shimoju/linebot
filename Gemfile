@@ -7,6 +7,7 @@ gem 'sinatra-contrib', require: false
 gem 'foreman', require: false
 gem 'puma', require: false
 gem 'rest-client'
+gem 'json'
 gem 'slim'
 
 group :production do
